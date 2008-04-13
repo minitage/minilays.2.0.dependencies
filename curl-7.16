@@ -1,0 +1,5 @@
+depends openssl-0.9 zlib-1.2
+src_uri="https://hg.minitage.org/minitage/buildouts/dependencies/ultimate-dependencies/curl-7.16.4/"
+src_type="svn"
+install_method="buildout"
+category="dependencies"

@@ -1,0 +1,4 @@
+src_uri="https://hg.minitage.org/minitage/buildouts/dependencies/ultimate-dependencies/expat-2.0.1/"
+src_type="svn"
+install_method="buildout"
+category="dependencies"
