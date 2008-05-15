@@ -3,3 +3,5 @@ src_uri=https://hg.minitage.org/minitage/buildouts/dependencies/libiconv-1.12/
 src_type=hg
 install_method=buildout
 category=dependencies
+license=LGPL-2.1
+homepage=http://www.gnu.org/software/libiconv/

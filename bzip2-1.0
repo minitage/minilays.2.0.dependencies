@@ -1,5 +1,7 @@
 [minibuild]
-src_uri=https://hg.minitage.org/minitage/buildouts/dependencies/bzip2-1.0.4/
-src_type=hg
-install_method=buildout
 category=dependencies
+install_method=buildout
+src_type=hg
+src_uri=https://hg.minitage.org/minitage/buildouts/dependencies/bzip2-1.0.4/
+license=BZIP2
+homepage=http://www.bzip.org/

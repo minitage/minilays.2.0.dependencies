@@ -4,3 +4,5 @@ src_type=hg
 src_uri=https://hg.minitage.org/minitage/buildouts/dependencies/graphviz-2.18/
 install_method=buildout
 category=dependencies
+homepage=http://www.graphviz.org/
+license=CPL-1.0

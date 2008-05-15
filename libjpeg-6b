@@ -4,3 +4,5 @@ src_uri=https://hg.minitage.org/minitage/buildouts/dependencies/libjpeg-6b/
 src_type=hg
 install_method=buildout
 category=dependencies
+license=as-is
+homepage=http://www.ijg.org/

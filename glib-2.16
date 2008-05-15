@@ -4,3 +4,5 @@ src_type=hg
 src_uri=https://hg.minitage.org/minitage/buildouts/dependencies/glib-2.16.1/
 install_method=buildout
 category=dependencies
+license=GPL-2
+homepage=http://www.gtk.org/

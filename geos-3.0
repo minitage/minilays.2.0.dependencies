@@ -4,3 +4,5 @@ src_uri=https://hg.minitage.org/minitage/buildouts/dependencies/geos-3.0
 src_type=hg
 install_method=buildout
 category=dependencies
+homepage=http://geos.refractions.net
+license=GPL-2
