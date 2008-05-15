@@ -1,7 +1,7 @@
 [minibuild]
 depends=meta-xml freetype-2.1 glib-2.16
 src_type=hg
-src_uri=https://hg.minitage.org/minitage/buildouts/dependencies/graphviz-2.18/
+src_uri=http://hg.minitage.org/minitage/buildouts/dependencies/graphviz-2.18/
 install_method=buildout
 category=dependencies
 homepage=http://www.graphviz.org/
