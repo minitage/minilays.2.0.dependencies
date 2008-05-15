@@ -1,8 +1,9 @@
-depends='freetype-2.1 openssl-0.9 db-4.4'
-if [[ $(uname) == 'Linux' ]];then
-    depends="$depends cyrus-sasl-2.1"
-fi 
-src_type="svn"
-src_uri="https://hg.minitage.org/minitage/buildouts/dependencies/ultimate-dependencies/openldap-2.3.39/"
-install_method="buildout"
-category="dependencies"
+[minibuild]
+depends=freetype-2.1 openssl-0.9 db-4.4
+if [[ $(uname) == Linux ]];then
+    depends=$depends cyrus-sasl-2.1
+fi
+src_type=hg
+src_uri=https://hg.minitage.org/minitage/buildouts/dependencies/openldap-2.3.39/
+install_method=buildout
+category=dependencies

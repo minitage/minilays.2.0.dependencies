@@ -1,6 +1,6 @@
-depends=' meta-imaging-libs fontconfig-2.5 freetype-2.1'
-
-src_uri="https://hg.minitage.org/minitage/buildouts/dependencies/ultimate-dependencies/libgd-2.0.35/"
-src_type="svn"
-install_method="buildout"
-category="dependencies"
+[minibuild]
+depends=meta-imaging-libs fontconfig-2.5 freetype-2.1
+src_uri=https://hg.minitage.org/minitage/buildouts/dependencies/libgd-2.0.35/
+src_type=hg
+install_method=buildout
+category=dependencies
