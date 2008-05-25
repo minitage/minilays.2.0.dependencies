@@ -1,5 +1,5 @@
 [minibuild]
-depends=openssl-0.9 zlib-1.2 libidn-1.8 ncurses-5.6
+dependencies=openssl-0.9 zlib-1.2 libidn-1.8 ncurses-5.6
 src_uri=http://hg.minitage.org/minitage/buildouts/dependencies/curl-7.16.4/
 src_type=hg
 install_method=buildout
