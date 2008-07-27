@@ -2,6 +2,6 @@
 category=dependencies
 install_method=buildout
 src_type=hg
-src_uri=http://hg.minitage.org/minitage/buildouts/dependencies/bzip2-1.0.4/
+src_uri=${minitage-dependencies}/bzip2-1.0.4
 license=BZIP2
 homepage=http://www.bzip.org/

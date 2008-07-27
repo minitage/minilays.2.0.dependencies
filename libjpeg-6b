@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=libiconv-1.12
-src_uri=http://hg.minitage.org/minitage/buildouts/dependencies/libjpeg-6b/
+src_uri=${minitage-dependencies}/libjpeg-6b/
 src_type=hg
 install_method=buildout
 category=dependencies
