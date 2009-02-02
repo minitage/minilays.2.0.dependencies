@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=openssl-0.9 zlib-1.2
-src_uri=${minitage-dependencies}/curl-7.16.4/
+src_uri=${minitage-dependencies}/libssh2-1.0
 src_type=hg
 install_method=buildout
 category=dependencies
