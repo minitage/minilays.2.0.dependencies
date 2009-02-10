@@ -1,0 +1,7 @@
+[minibuild]
+src_type=hg
+src_uri=${minitage-dependencies}/pixman-0.12
+install_method=buildout
+category=dependencies
+homepage=http://www.x.org
+license=GPL1
