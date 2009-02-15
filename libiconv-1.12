@@ -1,6 +1,6 @@
 [minibuild]
 src_uri=${minitage-dependencies}/libiconv-1.12/
-src_type=hg
+src_type=git
 install_method=buildout
 category=dependencies
 license=LGPL-2.1

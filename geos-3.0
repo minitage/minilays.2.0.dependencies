@@ -1,7 +1,7 @@
 [minibuild]
 dependencies=libiconv-1.12
 src_uri=${minitage-dependencies}/geos-3.0
-src_type=hg
+src_type=git
 install_method=buildout
 category=dependencies
 homepage=http://geos.refractions.net

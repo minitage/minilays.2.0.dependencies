@@ -1,7 +1,7 @@
 [minibuild]
 dependencies=openssl-0.9 expat-2.0 libiconv-1.12 zlib-1.2
 src_uri=${minitage-dependencies}/neon-0.25
-src_type=hg
+src_type=git
 install_method=buildout
 category=dependencies
 homepage=http://www.webdav.org/neon/

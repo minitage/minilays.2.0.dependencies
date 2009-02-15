@@ -1,5 +1,5 @@
 [minibuild]
-src_type=hg
+src_type=git
 src_uri=${minitage-dependencies}/pixman-0.12
 install_method=buildout
 category=dependencies
