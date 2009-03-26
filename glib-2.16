@@ -1,7 +1,7 @@
 [minibuild]
 dependencies=libiconv-1.12
 src_type=git
-src_uri=${minitage-dependencies}/glib-2.16.1/
+src_uri=${minitage-dependencies}/glib-2.16.1
 install_method=buildout
 category=dependencies
 license=GPL-2
