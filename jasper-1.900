@@ -1,8 +1,8 @@
 [minibuild]
 dependencies=libiconv-1.12 libjpeg-6b
-src_uri=${minitage-dependencies}/jasper-1.900.1
-src_type=git
+src_uri=${minitage-dependencies}/jasper-1.900.1/jasper-1.900.1.tbz2
+src_type=static
 install_method=buildout
 category=dependencies
 license=as-is
-homepage=http://www.ijg.org/
+homepage=http://www.ijg.org//.tbz2

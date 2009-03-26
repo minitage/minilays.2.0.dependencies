@@ -1,8 +1,8 @@
 [minibuild]
 dependencies=openssl-0.9 zlib-1.2 libidn-1.8 ncurses-5.6 libssh2-1.0
-src_uri=${minitage-dependencies}/curl-7.16.4
-src_type=git
+src_uri=${minitage-dependencies}/curl-7.16.4/curl-7.16.4.tbz2
+src_type=static
 install_method=buildout
 category=dependencies
 license=MIT
-homepage=http://curl.haxx.se/
+homepage=http://curl.haxx.se//.tbz2

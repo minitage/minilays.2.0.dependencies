@@ -1,8 +1,8 @@
 [minibuild]
 dependencies=fontconfig-2.5 freetype-2.1 zlib-1.2 libtiff-3.8 libjpeg-6b libpng-1.2 libgif-1.4
-src_uri=${minitage-dependencies}/libgd-2.0.35
-src_type=git
+src_uri=${minitage-dependencies}/libgd-2.0.35/libgd-2.0.35.tbz2
+src_type=static
 install_method=buildout
 category=dependencies
-homepage=http://libgd.org/
+homepage=http://libgd.org//.tbz2
 license=BSD

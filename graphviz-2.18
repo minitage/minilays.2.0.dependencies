@@ -1,8 +1,8 @@
 [minibuild]
 dependencies=meta-xml freetype-2.1 glib-2.16
-src_type=git
-src_uri=${minitage-dependencies}/graphviz-2.18
+src_type=static
+src_uri=${minitage-dependencies}/graphviz-2.18/graphviz-2.18.tbz2
 install_method=buildout
 category=dependencies
-homepage=http://www.graphviz.org/
+homepage=http://www.graphviz.org//.tbz2
 license=CPL-1.0

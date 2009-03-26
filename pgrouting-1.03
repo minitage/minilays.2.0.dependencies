@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=cmake-2.6 libiconv-1.12 boost-1.37 postgis-1.3 postgresql-8.3 proj-4.6 geos-3.0
-src_uri=${minitage-dependencies}/pgrouting-1.03
-src_type=git
+src_uri=${minitage-dependencies}/pgrouting-1.03/pgrouting-1.03.tbz2
+src_type=static
 install_method=buildout
 category=dependencies

@@ -1,8 +1,8 @@
 [minibuild]
-src_uri=${minitage-dependencies}/expat-2.0.1
-src_type=git
+src_uri=${minitage-dependencies}/expat-2.0.1/expat-2.0.1.tbz2
+src_type=static
 install_method=buildout
 category=dependencies
-homepage=http://expat.sourceforge.net/
+homepage=http://expat.sourceforge.net//.tbz2
 license=as-is
 

@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=curl-7.19 libxml2-2.6 libwww-5.4
-src_uri=${minitage-dependencies}/xmlrpc-c-1.16.06
-src_type=git
+src_uri=${minitage-dependencies}/xmlrpc-c-1.16.06/xmlrpc-c-1.16.06.tbz2
+src_type=static
 install_method=buildout
 category=dependencies

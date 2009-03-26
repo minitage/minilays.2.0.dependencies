@@ -1,7 +1,7 @@
 [minibuild]
 category=dependencies
 install_method=buildout
-src_type=git
-src_uri=${minitage-dependencies}/bzip2-1.0.4
+src_type=static
+src_uri=${minitage-dependencies}/bzip2-1.0.4/bzip2-1.0.4.tbz2
 license=BZIP2
-homepage=http://www.bzip.org/
+homepage=http://www.bzip.org//.tbz2

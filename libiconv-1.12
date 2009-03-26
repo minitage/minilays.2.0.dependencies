@@ -1,7 +1,7 @@
 [minibuild]
-src_uri=${minitage-dependencies}/libiconv-1.12
-src_type=git
+src_uri=${minitage-dependencies}/libiconv-1.12/libiconv-1.12.tbz2
+src_type=static
 install_method=buildout
 category=dependencies
 license=LGPL-2.1
-homepage=http://www.gnu.org/software/libiconv/
+homepage=http://www.gnu.org/software/libiconv//.tbz2
