@@ -1,5 +1,5 @@
 [minibuild]
-dependencies=libiconv-1.12 libjpeg-6b
+dependencies=libiconv-1.12 libjpeg-7
 src_uri=${minitage-dependencies}/jasper-1.900.1/jasper-1.900.1.tbz2
 src_type=static
 install_method=buildout
