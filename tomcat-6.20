@@ -1,0 +1,7 @@
+[minibuild]
+src_uri=${minitage-dependencies}/tomcat-6.20/tomcat-6.20.tbz2
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=
+license=
