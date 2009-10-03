@@ -1,5 +1,5 @@
 [minibuild]
-src_uri=${minitage-dependencies}/libffi-3.0/libffi-3.0.tbz2
+src_uri=${minitage-dependencies}/libffi-3.0.8/libffi-3.0.8.tbz2
 src_type=static
 install_method=buildout
 category=dependencies
