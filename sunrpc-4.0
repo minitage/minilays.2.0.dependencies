@@ -1,0 +1,8 @@
+[minibuild]
+src_type=static
+src_uri=${minitage-dependencies}/sunrpc-4.0/sunrpc-4.0.tbz2
+install_method=buildout
+category=dependencies
+license=
+homepage=
+
