@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=zlib-1.2 bzip2-1.0
+src_uri=${minitage-dependencies}/geoip-1.4/geoip-1.4.tbz2
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=http://www.pcre.org/
+license=BSD
+
