@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=zlib-1.2 bzip2-1.0 readline-5.2
-src_uri=${minitage-dependencies}/geoip-1.4/geoip-1.4.tbz2
+src_uri=${minitage-dependencies}/libpcre-8.0/libpcre-8.0.tbz2
 src_type=static
 install_method=buildout
 category=dependencies
