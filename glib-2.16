@@ -1,8 +1,0 @@
-[minibuild]
-dependencies=libiconv-1.12
-src_type=static
-src_uri=${minitage-dependencies}/glib-2.16.1/glib-2.16.1.tbz2
-install_method=buildout
-category=dependencies
-license=GPL-2
-homepage=http://www.gtk.org//.tbz2
