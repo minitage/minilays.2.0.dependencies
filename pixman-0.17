@@ -1,0 +1,7 @@
+[minibuild]
+src_type=static
+src_uri=${minitage-dependencies}/pixman-0.17/pixman-0.17.tbz2
+install_method=buildout
+category=dependencies
+homepage=http://www.x.org/www.x.org.tbz2
+license=GPL1
