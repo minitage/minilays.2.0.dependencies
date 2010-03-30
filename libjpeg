@@ -1,0 +1,8 @@
+[minibuild]
+dependencies=libiconv-1.12
+src_uri=${minitage-dependencies}/libjpeg/libjpeg.tbz2
+src_type=static
+install_method=buildout
+category=dependencies
+license=as-is
+homepage=http://www.ijg.org//.tbz2
