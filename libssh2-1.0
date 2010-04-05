@@ -1,0 +1,8 @@
+[minibuild]
+dependencies=openssl-0.9 zlib-1.2
+src_uri=${minitage-dependencies}/libssh2-1/libssh2-1.tbz2
+src_type=static
+install_method=buildout
+category=dependencies
+license=MIT
+homepage=http://curl.haxx.se//.tbz2
