@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=
+src_uri=${minitage-dependencies}/cpio-2.11/cpio-2.11.tbz2
+src_type=static
+install_method=buildout
+category=dependencies
+license=GPL-2
+homepage=
+
