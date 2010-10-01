@@ -6,3 +6,4 @@ install_method=buildout
 category=dependencies
 homepage=http://libgd.org//.tbz2
 license=BSD
+revision=1

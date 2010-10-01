@@ -4,3 +4,4 @@ src_uri=${minitage-dependencies}/xmlrpc-c-1.18/xmlrpc-c-1.18.tbz2
 src_type=static
 install_method=buildout
 category=dependencies
+revision=1
