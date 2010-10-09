@@ -6,3 +6,4 @@ install_method=buildout
 category=dependencies
 license=BOOST
 homepage=http://www.boost.org/www.boost.org.tbz2
+revision=1
