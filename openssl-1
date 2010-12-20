@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=zlib-1.2 ncurses-5
+src_uri=${minitage-dependencies}/openssl-1/openssl-1.tbz2
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=http://www.openssl.org//.tbz2
+license=as-is
+revision=2
