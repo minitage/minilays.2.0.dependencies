@@ -1,0 +1,7 @@
+[minibuild]
+src_uri=${minitage-dependencies}/ncurses-5/ncurses-5.tbz2
+src_type=static
+install_method=buildout
+category=dependencies
+license=MIT
+homepage=http://www.gnu.org/software/ncurses//.tbz2
