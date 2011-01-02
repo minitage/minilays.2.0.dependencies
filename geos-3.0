@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=libiconv-1.12
-src_uri=${minitage-dependencies}/geos-3.0/geos-3.0.tbz2
+src_uri=http://github.com/minitage-dependencies/geos-3.0/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies

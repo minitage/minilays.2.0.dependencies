@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=libiconv-1.12
-src_uri=${minitage-dependencies}/libjpeg-6b/libjpeg-6b.tbz2
+src_uri=http://github.com/minitage-dependencies/libjpeg-6b/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies

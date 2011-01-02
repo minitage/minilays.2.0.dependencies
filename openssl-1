@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=zlib-1.2 ncurses-5
-src_uri=${minitage-dependencies}/openssl-1/openssl-1.tbz2
+src_uri=http://github.com/minitage-dependencies/openssl-1/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies

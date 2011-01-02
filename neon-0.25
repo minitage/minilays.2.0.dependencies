@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=openssl-0.9 expat-2.0 libiconv-1.12 zlib-1.2
-src_uri=${minitage-dependencies}/neon-0.25/neon-0.25.tbz2
+src_uri=http://github.com/minitage-dependencies/neon-0.25/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies

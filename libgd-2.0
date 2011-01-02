@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=fontconfig-2.5 freetype-2.3 zlib-1.2 libtiff-3   libjpeg libpng-1.2 libgif-4.1 libiconv-1.12
-src_uri=${minitage-dependencies}/libgd-2.0.35/libgd-2.0.35.tbz2
+src_uri=http://github.com/minitage-dependencies/libgd-2.0.35/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies

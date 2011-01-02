@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=
-src_uri=${minitage-dependencies}/cpio-2.11/cpio-2.11.tbz2
+src_uri=http://github.com/minitage-dependencies/cpio-2.11/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies

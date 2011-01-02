@@ -1,5 +1,5 @@
 [minibuild]
-src_uri=${minitage-dependencies}/libiconv-1.12/libiconv-1.12.tbz2
+src_uri=http://github.com/minitage-dependencies/libiconv-1.12/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies

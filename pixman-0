@@ -1,6 +1,6 @@
 [minibuild]
 src_type=static
-src_uri=${minitage-dependencies}/pixman-0/pixman-0.tbz2
+src_uri=http://github.com/minitage-dependencies/pixman-0/tarball/master
 install_method=buildout
 category=dependencies
 homepage=http://www.x.org/www.x.org.tbz2
