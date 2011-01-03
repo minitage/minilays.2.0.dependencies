@@ -1,0 +1,10 @@
+[minibuild]
+dependencies=ncurses-5 openssl-1 db-4
+src_uri=http://github.com/minitage-dependencies/perl-5/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+license=GPL-2
+homepage=http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html/rltop.html.tbz2
+
+revision=1
