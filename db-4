@@ -1,5 +1,5 @@
 [minibuild]
-dependencies=libiconv-1.12 readline-5.2
+dependencies=libiconv-1.12 readline-6
 dependencies-cygwin=sunrpc-4.0
 src_type=static
 src_uri=http://github.com/minitage-dependencies/db-4/tarball/master
@@ -7,4 +7,4 @@ install_method=buildout
 category=dependencies
 license=
 homepage=
-
+revision=2
