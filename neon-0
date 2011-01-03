@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=openssl-1 expat-2.0 libiconv-1.12 zlib-1.2
+src_uri=http://github.com/minitage-dependencies/neon-0/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=http://www.webdav.org/neon//.tbz2
+license=GPL-2
+
