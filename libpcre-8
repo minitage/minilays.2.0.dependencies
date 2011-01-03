@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=zlib-1.2 bzip2-1.0 readline-6
+src_uri=http://github.com/minitage-dependencies/libpcre-8/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=http://www.pcre.org/
+license=BSD
+revision=2
