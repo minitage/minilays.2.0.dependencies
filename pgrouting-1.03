@@ -1,7 +1,7 @@
 [minibuild]
-dependencies=cmake-2.8 libiconv-1.12 boost-1    postgis-1.4 postgresql-8.4 proj-4.7 geos-3.2
+dependencies=cmake-2.8 libiconv-1.12 boost-1    postgis-1.5 postgresql-8.4 proj-4.7 geos-3.2
 src_uri=http://github.com/minitage-dependencies/pgrouting-1.03/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
-revision=1
+revision=2
