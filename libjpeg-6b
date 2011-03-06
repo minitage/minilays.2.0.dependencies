@@ -1,8 +1,0 @@
-[minibuild]
-dependencies=libiconv-1.12
-src_uri=http://github.com/minitage-dependencies/libjpeg-6b/tarball/master
-src_type=static
-install_method=buildout
-category=dependencies
-license=as-is
-homepage=http://www.ijg.org//.tbz2
