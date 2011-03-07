@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=zlib-1.2 bzip2-1.0 libxml2-2.7 libglib-2
+src_uri=http://github.com/minitage-dependencies/libgsf-1/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+license=Apache Software License
+homepage=http://httpd.apache.org/ABOUT_APACHE.html
+revision=4
