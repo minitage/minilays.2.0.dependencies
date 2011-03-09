@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=zlib-1.2 libtiff-3 libjpeg libpng-1.2 libgif-4.1 libiconv-1.12 
+src_uri=http://github.com/minitage-dependencies/tesseract-3/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=http://code.google.com/p/tesseract-ocr
+license=Apache-2.0
+revision=1
