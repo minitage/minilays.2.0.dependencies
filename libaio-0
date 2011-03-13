@@ -4,5 +4,5 @@ src_uri=http://github.com/minitage-dependencies/libaio-0/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
-homepage
+homepage=
 license=GPL-2
