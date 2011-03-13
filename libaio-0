@@ -1,8 +1,8 @@
 [minibuild]
-dependencies=libiconv-1.12
-src_uri=http://github.com/minitage-dependencies/geos-3.2/tarball/master
+dependencies=
+src_uri=http://github.com/minitage-dependencies/libaio-0/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
-homepage=http://geos.refractions.net/geos.refractions.net.tbz2
+homepage
 license=GPL-2
