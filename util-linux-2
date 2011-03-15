@@ -1,5 +1,5 @@
 [minibuild]
-dependencies=perl-5 ncurses-5 readline-6 zlib-1 bzip2-1.0 openssl-1
+dependencies=perl-5 ncurses-5 readline-6 zlib-1.2 bzip2-1.0 openssl-1
 src_uri=http://github.com/minitage-dependencies/util-linux-2/tarball/master
 src_type=static
 install_method=buildout
