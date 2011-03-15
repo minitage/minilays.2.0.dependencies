@@ -1,0 +1,7 @@
+[minibuild]
+src_uri=http://github.com/minitage-dependencies/e2fsprogs/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=
+license=
