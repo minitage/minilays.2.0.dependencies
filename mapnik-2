@@ -5,5 +5,5 @@ src_type=static
 install_method=buildout
 category=dependencies
 license=LGPL
-homepage=http://www.mapnik.org//.tbz2
-revision=7
+homepage=http://www.mapnik.org
+revision=8
