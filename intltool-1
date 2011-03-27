@@ -1,9 +1,0 @@
-[minibuild]
-src_uri=http://github.com/minitage-dependencies/intltool-1/tarball/master
-dependencies=perl-5
-src_type=static 
-install_method=buildout
-category=dependencies
-license=
-homepage=http://gnome.org
-
