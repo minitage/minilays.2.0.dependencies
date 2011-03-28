@@ -6,4 +6,5 @@ install_method=buildout
 category=dependencies
 license=GPL-2
 homepage=
+revision=4
 
