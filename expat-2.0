@@ -1,5 +1,5 @@
 [minibuild]
-src_uri=http://github.com/minitage-dependencies/expat-2.0.1/tarball/master
+src_uri=http://github.com/minitage-dependencies/expat-2.0/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
