@@ -1,8 +1,9 @@
 [minibuild]
-src_uri=http://github.com/minitage-dependencies/apr-1.3/tarball/master
+src_uri=http://github.com/minitage-dependencies/apr-1/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
 homepage=http://apr.apache.org//.tbz2
+revision=2
 license=APACHE
 
