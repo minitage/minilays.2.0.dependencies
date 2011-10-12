@@ -1,9 +1,9 @@
 [minibuild]
-dependencies=openssl-1 zlib-1.2 libidn-1.9 ncurses-5 libssh2-1
+dependencies=openssl-1 zlib-1.2 libidn-1 ncurses-5 libssh2-1
 src_uri=http://github.com/minitage-dependencies/curl-7/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
 license=MIT
 homepage=http://curl.haxx.se//.tbz2
-revision=4
+revision=5
