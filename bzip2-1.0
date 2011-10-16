@@ -5,3 +5,5 @@ src_type=static
 src_uri=http://github.com/minitage-dependencies/bzip2-1.0/tarball/master
 license=BZIP2
 homepage=http://www.bzip.org//
+
+revision=2
