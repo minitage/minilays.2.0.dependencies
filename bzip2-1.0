@@ -2,6 +2,6 @@
 category=dependencies
 install_method=buildout
 src_type=static
-src_uri=http://github.com/minitage-dependencies/bzip2-1.0.4/tarball/master
+src_uri=http://github.com/minitage-dependencies/bzip2-1.0/tarball/master
 license=BZIP2
 homepage=http://www.bzip.org//
