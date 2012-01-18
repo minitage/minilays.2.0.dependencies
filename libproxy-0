@@ -1,0 +1,8 @@
+[minibuild]
+dependencies=openssl-1 expat-2.0 libiconv-1.12 zlib-1.2 cmake-2.8
+src_uri=http://github.com/minitage-dependencies/libproxy-0/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=http://code.google.com/p/libproxy
+license=LGPL
