@@ -1,0 +1,8 @@
+[minibuild]
+dependencies=zlib-1.2 bzip-1.0 xz-utils-5
+src_uri=http://github.com/minitage-dependencies/libarchive/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=
+license=
