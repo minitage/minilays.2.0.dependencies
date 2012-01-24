@@ -1,9 +1,0 @@
-[minibuild]
-dependencies=zlib-1.2 perl-5 openssl-1 libxml2-2.7 libxslt-1.1
-src_uri=http://github.com/minitage-dependencies/intltool-0/tarball/master
-src_type=static
-install_method=buildout
-category=dependencies
-homepage=
-license=
-revision=1
