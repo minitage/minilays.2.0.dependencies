@@ -1,7 +1,0 @@
-[minibuild]
-dependencies=curl-7 libxml2-2.7 libwww-5.4
-src_uri=http://github.com/minitage-dependencies/xmlrpc-c-1.18/tarball/master
-src_type=static
-install_method=buildout
-category=dependencies
-revision=2
