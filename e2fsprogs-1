@@ -5,3 +5,4 @@ install_method=buildout
 category=dependencies
 homepage=
 license=
+revision=2
