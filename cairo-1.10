@@ -1,9 +1,9 @@
 [minibuild]
-dependencies=fontconfig-2.5 freetype-2.3 expat-2.0 libpng-1 zlib-1.2 pixman-0 libglib-2
+dependencies=fontconfig-2.5 freetype-2 expat-2.0 libpng-1 zlib-1.2 pixman-0 libglib-2
 src_type=static
 src_uri=http://github.com/minitage-dependencies/cairo-1.10/tarball/master
 install_method=buildout
 category=dependencies
 homepage=http://www.cairographics.org//.tbz2
 license=LGPL-2.1
-revision=3
+revision=4
