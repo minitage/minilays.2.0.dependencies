@@ -6,4 +6,4 @@ install_method=buildout
 category=dependencies
 license=MIT
 homepage=http://curl.haxx.se//.tbz2
-revision=5
+revision=7
