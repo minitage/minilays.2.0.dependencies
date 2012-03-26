@@ -6,4 +6,4 @@ install_method=buildout
 category=dependencies
 homepage=http://www.cairographics.org
 license=LGPL-2.1
-revision=3
+revision=4
