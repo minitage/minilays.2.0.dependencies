@@ -5,4 +5,4 @@ install_method=buildout
 category=dependencies
 homepage=http://www.x.org/www.x.org.tbz2
 license=GPL1
-revision=4
+revision=5
