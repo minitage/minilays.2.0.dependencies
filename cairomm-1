@@ -1,5 +1,5 @@
 [minibuild]
-dependencies= fontconfig-2.5 freetype-2 expat-2.0 libpng-1 zlib-1.2 cairo-1.10 pixman-0 doxygen-1 libsigc-2.2 boost-1
+dependencies= fontconfig-2.5 freetype-2 expat-2.0 libpng-1 zlib-1.2 cairo-1.12 pixman-0 doxygen-1 libsigc-2.2 boost-1
 src_type=static
 src_uri=http://github.com/minitage-dependencies/cairomm-1/tarball/master
 install_method=buildout
