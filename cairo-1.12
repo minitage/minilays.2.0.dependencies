@@ -6,4 +6,4 @@ install_method=buildout
 category=dependencies
 homepage=http://www.cairographics.org//.tbz2
 license=LGPL-2.1
-revision=4
+revision=5
