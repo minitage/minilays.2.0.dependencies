@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=libjpeg libtiff proj-4
-src_uri=http://github.com/minitage-dependencies/geotiff-1.3/tarball/master
+src_uri=http://github.com/minitage-dependencies/geotiff-1/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
