@@ -1,0 +1,9 @@
+[minibuild]
+dependencies= zlib-1.2 ncurses-5 openssl-1 libglib-2 aspell-0
+src_uri=http://github.com/minitage-dependencies/enchant-1/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=
+license=
+revision=1
