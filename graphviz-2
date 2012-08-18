@@ -1,0 +1,9 @@
+[minibuild]
+dependencies= zlib-1.2 ncurses-5 openssl-1 expat-2.0 libglib-2 libgd-2.0 fontconfig-2.5 freetype-2 libpng-1 libjpeg libiconv-1.12 cairomm-1 cairo-1.12 
+src_uri=http://github.com/minitage-dependencies/graphviz-2/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=
+license=
+revision=1
