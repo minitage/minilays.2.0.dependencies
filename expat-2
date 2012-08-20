@@ -1,0 +1,9 @@
+[minibuild]
+src_uri=http://github.com/minitage-dependencies/expat-2/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=http://expat.sourceforge.net//.tbz2
+license=as-is
+revision=1
+
