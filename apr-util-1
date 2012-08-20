@@ -1,9 +1,9 @@
 [minibuild]
-dependencies=apr-1 db-4 expat-2.0 libiconv-1.12 openssl-1 openldap-2.4 cyrus-sasl-2.1
+dependencies=apr-1 db-4 expat-2 libiconv-1.12 openssl-1 openldap-2.4 cyrus-sasl-2.1
 src_uri=http://github.com/minitage-dependencies/apr-util-1/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
 homepage=http://apr.apache.org//.tbz2
 license=APACHE
-revision=5
+revision=6

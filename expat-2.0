@@ -5,4 +5,4 @@ install_method=buildout
 category=dependencies
 homepage=http://expat.sourceforge.net//.tbz2
 license=as-is
-
+revision=0
