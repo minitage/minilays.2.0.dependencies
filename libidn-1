@@ -6,4 +6,4 @@ install_method=buildout
 category=dependencies
 homepage=http://josefsson.org/libidn//.tbz2
 license=GPL-2
-revision=3
+revision=4
