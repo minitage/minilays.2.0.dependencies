@@ -1,6 +1,6 @@
 [minibuild] 
 dependencies=perl-5 cpio-2.11 openssl-1 zlib-1.2 curl-7 expat-2 libiconv-1.12 subversion-1.7
-src_uri=http://github.com/minitage-dependencies/git-1.7/tarball/master
+src_uri=http://github.com/minitage-dependencies/git-1/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
