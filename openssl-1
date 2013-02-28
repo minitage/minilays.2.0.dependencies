@@ -6,4 +6,4 @@ install_method=buildout
 category=dependencies
 homepage=http://www.openssl.org//.tbz2
 license=as-is
-revision=10
+revision=11
