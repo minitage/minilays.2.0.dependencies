@@ -1,5 +1,5 @@
 [minibuild]
-dependencies=apr-util-1.3 apr-1.3 openssl-1
+dependencies=apr-util-1.3 apr-1 openssl-1
 src_uri=http://github.com/minitage-dependencies/tomcat-6.0.24/tarball/master
 src_type=static
 install_method=buildout
