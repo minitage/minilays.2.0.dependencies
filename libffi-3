@@ -1,5 +1,5 @@
 [minibuild]
-src_uri=http://github.com/minitage-dependencies/libffi-3.0.8/tarball/master
+src_uri=http://github.com/minitage-dependencies/libffi-3/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
