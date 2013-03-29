@@ -6,3 +6,4 @@ install_method=buildout
 category=dependencies
 homepage=http://www.libpng.org//.tbz2
 license=as-is
+revision=2
