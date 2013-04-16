@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=zlib-1.2 openssl-1
+src_uri=http://github.com/minitage-dependencies/lksctp/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+license=
+homepage=
+revision=0 

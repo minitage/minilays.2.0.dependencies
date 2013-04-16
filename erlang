@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=zlib-1.2 openssl-1 lksctp ncurses-5 readline-6 bzip2-1.0 db-4 expat-2 libxml2-2.6 
+src_uri=http://github.com/minitage-dependencies/erlang/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+license=
+homepage=
+revision=0
