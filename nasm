@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=perl-5
+src_uri=http://github.com/minitage-dependencies/nasm/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+license=
+homepage=
+revision=0
