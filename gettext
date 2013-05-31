@@ -1,0 +1,8 @@
+[minibuild]
+src_uri=http://github.com/minitage-dependencies/gettext/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage
+license=GPL-2
+
