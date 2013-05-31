@@ -6,4 +6,4 @@ install_method=buildout
 category=dependencies
 homepage=http://code.google.com/p/libproxy
 license=LGPL
-revision=3
+revision=4
