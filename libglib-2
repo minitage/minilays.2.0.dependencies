@@ -1,6 +1,7 @@
 [minibuild]
 dependencies=zlib-1.2 db-4 openssl-1 ncurses-5 libxml2-2.7 libiconv-1.12
-dependencies-freebsd=gettext-0
+dependencies-freebsd=gettext
+dependencies-darwin=gettext
 src_uri=http://github.com/minitage-dependencies/libglib-2/tarball/master
 src_type=static
 install_method=buildout
