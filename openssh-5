@@ -1,7 +1,7 @@
 
 [minibuild] 
 dependencies=perl-5 openssl-1 zlib-1.2 libiconv-1.12
-src_uri=http://github.com/minitage-dependencies/git-1.7/tarball/master
+src_uri=http://github.com/minitage-dependencies/openssh-5/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies

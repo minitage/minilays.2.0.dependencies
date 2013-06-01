@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=libxml2-2.7 libiconv-1.12 ncurses-5  zlib-1.2 expat-2 perl-5
+src_uri=http://github.com/minitage-dependencies/gettext/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=
+license=GPL-2
+
