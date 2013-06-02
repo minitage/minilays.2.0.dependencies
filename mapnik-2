@@ -6,4 +6,4 @@ install_method=buildout
 category=dependencies
 license=LGPL
 homepage=http://www.mapnik.org
-revision=18
+revision=19
