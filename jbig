@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=libiconv-1.12 libjpeg zlib-1.2 libtiff
+src_uri=http://github.com/minitage-dependencies/lcms/tarball/master
+src_type=static
+install_method=buildout
+category=dependencies
+homepage=
+license=as-is
+revision=1

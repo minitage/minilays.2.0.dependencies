@@ -1,9 +1,9 @@
 [minibuild]
-dependencies=libiconv-1.12 libjpeg zlib-1.2
+dependencies=libiconv-1.12 libjpeg zlib-1.2 jbig
 src_uri=http://github.com/minitage-dependencies/libtiff-3/tarball/master
 src_type=static
 install_method=buildout
 category=dependencies
 homepage=http://www.remotesensing.org/libtiff//.tbz2
 license=as-is
-revision=2
+revision=3
