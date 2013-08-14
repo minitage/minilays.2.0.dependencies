@@ -6,4 +6,4 @@ install_method=buildout
 category=dependencies
 license=as-is
 homepage=http://www.ijg.org//.tbz2
-revision=4
+revision=5
