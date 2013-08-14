@@ -1,5 +1,5 @@
 [minibuild]
-dependencies=zlib-1.2 bzip2-1.0 xz-utils-5 openssl-1 libxml2-2.7 expat-2
+dependencies=zlib-1.2 bzip2-1.0 xz-utils-5 openssl-1 libxml2-2.7 expat-2 libiconv-1.12
 dependencies-freebsd-replace=zlib-1.2 bzip2-1.0 openssl-1 libxml2-2.7 expat-2
 src_uri=http://github.com/minitage-dependencies/libarchive/tarball/master
 src_type=static
